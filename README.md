@@ -12,6 +12,18 @@ The .csv testing file is located at **FileParser\FileParserTest\TestData**
 3. Manually parse the lines to an object model called **Person**
 4. Add each **Person** to list named **People**
 
+### Person Model
+
+```
+public class Person
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Address { get; set; }
+    }
+```
+
 ## Running the application
 
 1. Clone the Repository
