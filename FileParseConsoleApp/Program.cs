@@ -32,6 +32,8 @@ namespace FileParseConsoleApp
                     person.Address);
             }
 
+            Console.WriteLine("\nPress any key to exit the program.");
+            Console.ReadLine();
         }
     }
 }
