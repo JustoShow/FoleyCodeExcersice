@@ -27,4 +27,10 @@
     <ProjectReference Include="..\FileParser\FileParser.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="ParseTest.cs">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
 </Project>
