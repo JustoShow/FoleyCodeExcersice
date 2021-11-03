@@ -20,4 +20,4 @@ The .csv testing file is located at **FileParser\FileParserTest\TestData**
 
 Running Console
 
-![Running Console App](Images/ConsoleApp.jpg)
+![Running Console App](https://github.com/JustoShow/FoleyCodeExercise/blob/main/Images/ConsoleApp.JPG)
